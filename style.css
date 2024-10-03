@@ -1,0 +1,15 @@
+/*
+yRepair
+Custom CSS
+*/
+
+body {
+    background-image: url("img/repair.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.caixa-pesquisa {
+    background: rgba(255, 255, 255, 0.4);
+}
